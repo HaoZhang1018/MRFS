@@ -26,6 +26,7 @@ The code of MRFS: Mutually Reinforcing Image Fusion and Segmentation
 * Example ```CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 train.py```<br>
 
 # Test:<br>
+* pretrained weights can be found at here: [FMB](https://drive.google.com/drive/folders/1rtrcdyI5OuEQl5VipDmitf4Z9M4MHBdO?usp=sharing)
 * Set the testing parameters:<br>
 * Run ```CUDA_VISIBLE_DEVICES="GPU IDs" python eval.py -e="epoch"```<br>
 * Example ```CUDA_VISIBLE_DEVICES=0 python eval.py -e=MRFS```<br>
