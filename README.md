@@ -1,5 +1,18 @@
 # MRFS_CVPR2024
-The code of MRFS: Mutually Reinforcing Image Fusion and Segmentation
+The code of MRFS: Mutually Reinforcing Image Fusion and Segmentation.
+````
+@inproceedings{zhang2024mrfs,
+  title={MRFS: Mutually Reinforcing Image Fusion and Segmentation},
+  author={Zhang, Hao and Zuo, Xuhui and Jiang, Jie and Guo, Chunchao and Ma, Jiayi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={26974--26983},
+  year={2024}
+}
+````
+
+
+
+
 <br>
 #### Recommended Environment:<br>
  - [ ] python = 3.8
